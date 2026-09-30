@@ -12,8 +12,14 @@
     "fuente": "Warehouse 521",
     "url": "https://www.warehouse521.com/2027-workshops/peter-van-dyck-still-life-in-the-interior-3-day-workshop-october-15-17-2027",
     "enlaces": [
-      { "texto": "Inscripción en Warehouse 521", "url": "https://www.warehouse521.com/2027-workshops/peter-van-dyck-still-life-in-the-interior-3-day-workshop-october-15-17-2027" },
-      { "texto": "Ficha del artista en la PAFA", "url": "https://www.pafa.org/faculty/peter-van-dyck" }
+      {
+        "texto": "Inscripción en Warehouse 521",
+        "url": "https://www.warehouse521.com/2027-workshops/peter-van-dyck-still-life-in-the-interior-3-day-workshop-october-15-17-2027"
+      },
+      {
+        "texto": "Ficha del artista en la PAFA",
+        "url": "https://www.pafa.org/faculty/peter-van-dyck"
+      }
     ],
     "confirmado": true,
     "anadido": "2026-09-30"
@@ -31,7 +37,10 @@
     "fuente": "Active.com",
     "url": "https://www.active.com/wayne-pa/painting/classes/still-life-in-the-interior-w-peter-van-dyck-2026-109855278",
     "enlaces": [
-      { "texto": "Otros talleres suyos en el Wayne Art Center", "url": "https://wayneart.org/events/1821/painting-the-found-world-with-peter-van-dyck/" }
+      {
+        "texto": "Otros talleres suyos en el Wayne Art Center",
+        "url": "https://wayneart.org/events/1821/painting-the-found-world-with-peter-van-dyck/"
+      }
     ],
     "confirmado": true,
     "anadido": "2026-09-30"
@@ -49,7 +58,10 @@
     "fuente": "Craven Allen Gallery",
     "url": "https://www.facebook.com/cravenallengallery/",
     "enlaces": [
-      { "texto": "Instagram de la galería", "url": "https://www.instagram.com/craven_allen_gallery/" }
+      {
+        "texto": "Instagram de la galería",
+        "url": "https://www.instagram.com/craven_allen_gallery/"
+      }
     ],
     "confirmado": true,
     "anadido": "2026-09-30"
@@ -67,7 +79,10 @@
     "fuente": "Gross McCleaf",
     "url": "https://www.grossmccleaf.com/news-press/gross-mccleaf-gallery-presents-peter-van-dyck-paintings-marilyn-holsing-on-longing2",
     "enlaces": [
-      { "texto": "Nota de prensa de la galería", "url": "https://www.grossmccleaf.com/news-press/gross-mccleaf-gallery-presents-peter-van-dyck-paintings-marilyn-holsing-on-longing2" }
+      {
+        "texto": "Nota de prensa de la galería",
+        "url": "https://www.grossmccleaf.com/news-press/gross-mccleaf-gallery-presents-peter-van-dyck-paintings-marilyn-holsing-on-longing2"
+      }
     ],
     "confirmado": true,
     "anadido": "2026-09-30"
@@ -85,7 +100,10 @@
     "fuente": "Blue Spiral 1 (CV)",
     "url": "https://bluespiral1.com/artist/1195-peter-van-dyck/cv",
     "enlaces": [
-      { "texto": "Obra disponible en Blue Spiral 1", "url": "https://bluespiral1.com/artist/1195-peter-van-dyck" }
+      {
+        "texto": "Obra disponible en Blue Spiral 1",
+        "url": "https://bluespiral1.com/artist/1195-peter-van-dyck"
+      }
     ],
     "confirmado": true,
     "anadido": "2026-09-30"
@@ -103,8 +121,14 @@
     "fuente": "Wayne Art Center",
     "url": "https://wayneart.org/events/2119/still-life-abstraction-through-observation-with-ed-praybe",
     "enlaces": [
-      { "texto": "Inscripción en el Wayne Art Center", "url": "https://wayneart.org/events/2119/still-life-abstraction-through-observation-with-ed-praybe" },
-      { "texto": "Su ficha como profesor", "url": "https://wayneart.org/art-education/faculty/faculty-praybe/" }
+      {
+        "texto": "Inscripción en el Wayne Art Center",
+        "url": "https://wayneart.org/events/2119/still-life-abstraction-through-observation-with-ed-praybe"
+      },
+      {
+        "texto": "Su ficha como profesor",
+        "url": "https://wayneart.org/art-education/faculty/faculty-praybe/"
+      }
     ],
     "confirmado": true,
     "anadido": "2026-09-30"
@@ -122,8 +146,14 @@
     "fuente": "Artsy",
     "url": "https://www.artsy.net/show/bowery-gallery-zeuxis-the-oranges-of-seville",
     "enlaces": [
-      { "texto": "Exposiciones de Zeuxis", "url": "https://www.zeuxis.us/exhibitions" },
-      { "texto": "Su página en Zeuxis", "url": "http://www.zeuxis.us/praybe" }
+      {
+        "texto": "Exposiciones de Zeuxis",
+        "url": "https://www.zeuxis.us/exhibitions"
+      },
+      {
+        "texto": "Su página en Zeuxis",
+        "url": "http://www.zeuxis.us/praybe"
+      }
     ],
     "confirmado": true,
     "anadido": "2026-09-30"
@@ -141,7 +171,10 @@
     "fuente": "Maryland Federation of Art",
     "url": "https://mdfedart.wordpress.com/2026/05/29/paint-annapolis-2026-spotlight-edmond-praybe/",
     "enlaces": [
-      { "texto": "Entrevista en Painting Perceptions", "url": "https://paintingperceptions.com/interview-with-edmond-praybe/" }
+      {
+        "texto": "Entrevista en Painting Perceptions",
+        "url": "https://paintingperceptions.com/interview-with-edmond-praybe/"
+      }
     ],
     "confirmado": true,
     "anadido": "2026-09-30"
@@ -176,7 +209,10 @@
     "fuente": "chrisliberti.com",
     "url": "http://www.chrisliberti.com/workshops",
     "enlaces": [
-      { "texto": "Instagram del artista", "url": "https://www.instagram.com/chris_liberti_/" }
+      {
+        "texto": "Instagram del artista",
+        "url": "https://www.instagram.com/chris_liberti_/"
+      }
     ],
     "confirmado": true,
     "anadido": "2026-09-30"
@@ -226,43 +262,12 @@
     "fuente": "East Aurora Advertiser",
     "url": "https://www.eastaurorany.com/articles/artist-chris-liberti-shows-new-works-at-meibohm/",
     "enlaces": [
-      { "texto": "Su ficha en Meibohm Fine Arts", "url": "https://www.meibohmfinearts.com/artists/details/1314" }
+      {
+        "texto": "Su ficha en Meibohm Fine Arts",
+        "url": "https://www.meibohmfinearts.com/artists/details/1314"
+      }
     ],
     "confirmado": true,
-    "anadido": "2026-09-30"
-  },
-  {
-    "artista": "Alberto Romero Gil",
-    "inicio": "2026-08-17",
-    "fin": null,
-    "fecha": "Desde 17 ago 2026",
-    "tipo": "Exposición",
-    "titulo": "O jogo da glória",
-    "lugar": "ProjecteSD · Barcelona",
-    "que": "Su ficha le vincula con el proyecto «O jogo da glória» en ProjecteSD.",
-    "detalle": "No se ha podido comprobar en la página de la galería qué papel tiene en el proyecto ni hasta cuándo dura.",
-    "fuente": "ArteInformado",
-    "url": "https://www.arteinformado.com/guia/f/alberto-romero-gil-13915",
-    "enlaces": [
-      { "texto": "Su canal de YouTube", "url": "https://www.youtube.com/@albertoromerogil" }
-    ],
-    "confirmado": false,
-    "anadido": "2026-09-30"
-  },
-  {
-    "artista": "Alberto Romero Gil",
-    "inicio": "2026-07-01",
-    "fin": "2026-08-31",
-    "fecha": "1 jul – 31 ago 2026",
-    "tipo": "Curso",
-    "titulo": "JAI · Instituto de Prácticas Artísticas",
-    "lugar": "Varios espacios · Vitoria-Gasteiz",
-    "que": "Aparece vinculado a la 7.ª edición de este programa de formación artística.",
-    "detalle": "No se ha podido comprobar en una fuente original si participó como docente o como invitado.",
-    "fuente": "ArteInformado",
-    "url": "https://www.arteinformado.com/guia/f/alberto-romero-gil-13915",
-    "enlaces": [],
-    "confirmado": false,
     "anadido": "2026-09-30"
   },
   {
@@ -278,7 +283,10 @@
     "fuente": "Studio Incamminati",
     "url": "https://studioincamminati.edu/workshops-david-baird-2026/",
     "enlaces": [
-      { "texto": "Studio Escalier, donde enseña", "url": "https://studioescalier.com/faculty/" }
+      {
+        "texto": "Studio Escalier, donde enseña",
+        "url": "https://studioescalier.com/faculty/"
+      }
     ],
     "confirmado": true,
     "anadido": "2026-09-30"
@@ -296,7 +304,10 @@
     "fuente": "Tregony Contemporary",
     "url": "https://tregonycontemporary.com/Biography/david-baird/",
     "enlaces": [
-      { "texto": "Obra en Tregony", "url": "https://tregonycontemporary.com/Artists/david-baird/" }
+      {
+        "texto": "Obra en Tregony",
+        "url": "https://tregonycontemporary.com/Artists/david-baird/"
+      }
     ],
     "confirmado": false,
     "anadido": "2026-09-30"
@@ -314,7 +325,10 @@
     "fuente": "Steven Francis Fine Art",
     "url": "https://stevenfrancisfineart.com/new-events-1/david-baird",
     "enlaces": [
-      { "texto": "Texto del artista en el blog de la galería", "url": "https://stevenfrancisfineart.com/new-blog-1/by-david-baird" }
+      {
+        "texto": "Texto del artista en el blog de la galería",
+        "url": "https://stevenfrancisfineart.com/new-blog-1/by-david-baird"
+      }
     ],
     "confirmado": true,
     "anadido": "2026-09-30"

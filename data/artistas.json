@@ -4,8 +4,14 @@
     "pistas": "Realista, Filadelfia, 1978. Profesor en la PAFA. Galerías: Sugarlift, John Pence, Blue Spiral 1, Gross McCleaf. No confundir con Anthony van Dyck.",
     "web": "https://www.pafa.org/faculty/peter-van-dyck",
     "enlaces": [
-      { "texto": "Sugarlift", "url": "https://www.sugarlift.com/artists/peter-van-dyck" },
-      { "texto": "Blue Spiral 1", "url": "https://bluespiral1.com/artist/1195-peter-van-dyck" }
+      {
+        "texto": "Sugarlift",
+        "url": "https://www.sugarlift.com/artists/peter-van-dyck"
+      },
+      {
+        "texto": "Blue Spiral 1",
+        "url": "https://bluespiral1.com/artist/1195-peter-van-dyck"
+      }
     ]
   },
   {
@@ -13,8 +19,14 @@
     "pistas": "Pintor de observación, Arnold (Maryland), zona de Baltimore. MICA y New York Studio School. Galerías: Y Art, First Street Gallery. Miembro de Zeuxis.",
     "web": "https://bakerartist.org/portfolios/edmondpraybe",
     "enlaces": [
-      { "texto": "Zeuxis", "url": "http://www.zeuxis.us/praybe" },
-      { "texto": "Gay Street Gallery", "url": "https://www.gaystreetgallery.com/edmond-praybe" }
+      {
+        "texto": "Zeuxis",
+        "url": "http://www.zeuxis.us/praybe"
+      },
+      {
+        "texto": "Gay Street Gallery",
+        "url": "https://www.gaystreetgallery.com/edmond-praybe"
+      }
     ]
   },
   {
@@ -22,18 +34,14 @@
     "pistas": "Nacido en Buffalo en 1974, vive en East Aurora (NY) desde 2024. Óleo y acuarela: paisaje, ciudad, bodegón. Galerías: Meibohm, Blue Spiral 1, Thomas Deans, Tregony.",
     "web": "https://www.chrisliberti.com/",
     "enlaces": [
-      { "texto": "Instagram", "url": "https://www.instagram.com/chris_liberti_/" },
-      { "texto": "Meibohm Fine Arts", "url": "https://www.meibohmfinearts.com/artists/details/1314" }
-    ]
-  },
-  {
-    "nombre": "Alberto Romero Gil",
-    "pistas": "Mataró, 1978. Discípulo de Antonio López. Profesor en Bellas Artes (UB), La Salle y Massana. Galerías: Sala Parés, Ansorena, Haurie, PontARTE.",
-    "web": "http://www.albertoromerogil.com/trayectoria/",
-    "enlaces": [
-      { "texto": "Sala Parés", "url": "https://salapares.com/en/artista/alberto-romero-gil/" },
-      { "texto": "YouTube", "url": "https://www.youtube.com/@albertoromerogil" },
-      { "texto": "X", "url": "https://x.com/aromerogil" }
+      {
+        "texto": "Instagram",
+        "url": "https://www.instagram.com/chris_liberti_/"
+      },
+      {
+        "texto": "Meibohm Fine Arts",
+        "url": "https://www.meibohmfinearts.com/artists/details/1314"
+      }
     ]
   },
   {
@@ -41,8 +49,14 @@
     "pistas": "Figurativo, EE. UU., 1986. Vive en Old Lyme (CT). Profesor en Studio Escalier y Lyme Academy. Galerías: Tregony (Reino Unido), Mary Woerner. No confundir con Sir David Baird, general del siglo XVIII.",
     "web": "https://davidtbaird.com/bio",
     "enlaces": [
-      { "texto": "Tregony", "url": "https://tregonycontemporary.com/Artists/david-baird/" },
-      { "texto": "Studio Escalier", "url": "https://studioescalier.com/faculty/" }
+      {
+        "texto": "Tregony",
+        "url": "https://tregonycontemporary.com/Artists/david-baird/"
+      },
+      {
+        "texto": "Studio Escalier",
+        "url": "https://studioescalier.com/faculty/"
+      }
     ]
   }
 ]

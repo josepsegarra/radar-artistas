@@ -268,7 +268,7 @@ function cuenta(m) {
 
 function renderStats() {
   const fut = S.menciones.filter(esFutura);
-  const prox = fut.filter(m => !m.continuo).sort((a, b) => a.inicio.localeCompare(b.inicio))[0];
+  const prox = fut.filter(m => !m.continuo && dias(m.inicio) > 0).sort((a, b) => a.inicio.localeCompare(b.inicio))[0];
   const box = document.getElementById("stats");
   box.replaceChildren();
   const add = (n, t) => { const d = el("div", "stat"); d.append(el("b", null, String(n)), el("span", null, t)); box.append(d); };
