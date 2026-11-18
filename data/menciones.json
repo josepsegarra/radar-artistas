@@ -1,6 +1,27 @@
 [
   {
     "artista": "Peter Van Dyck",
+    "inicio": "2027-04-17",
+    "fin": "2027-04-18",
+    "continuo": false,
+    "fecha": "17–18 abr 2027",
+    "tipo": "Taller",
+    "titulo": "Still Life in the Interior",
+    "lugar": "Wayne Art Center · Wayne (Pensilvania)",
+    "que": "Nuevo taller de fin de semana de Peter Van Dyck sobre cómo combinar el bodegón y el interior en un mismo cuadro.",
+    "detalle": "Dos jornadas (sábado y domingo), de 10:00 a 16:00, en el Wayne Art Center, 413 Maplewood Ave, Wayne, PA. Precio indicado en la ficha de inscripción: 345 $. Es una edición nueva del taller que ya imparte en septiembre de 2026.",
+    "fuente": "Wayne Art Center (inscripción en Active.com)",
+    "url": "https://www.active.com/wayne-pa/painting/classes/still-life-in-the-interior-w-peter-van-dyck-2027",
+    "enlaces": [],
+    "confirmado": false,
+    "verificacion": "busquedas",
+    "contrastes": [
+      "https://www.active.com/wayne-pa/painting/classes/still-life-in-the-interior-w-peter-van-dyck-2027"
+    ],
+    "anadido": "2026-11-18"
+  },
+  {
+    "artista": "Peter Van Dyck",
     "inicio": "2027-10-15",
     "fin": "2027-10-17",
     "fecha": "15 – 17 oct 2027",
